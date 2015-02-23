@@ -1,0 +1,8 @@
+ul.scrollingbox {
+	margin: 0;
+	padding: 0;
+}
+
+ul.scrollingbox > li {
+	padding: 10px
+}
