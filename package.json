@@ -2,7 +2,7 @@
     "name": "panbox",
     "version": "0.0.1",
     "description": "pan box",
-    "homepage": "http://panbox.io/",
+    "homepage": "http://panbox.panyushk.in/",
     "main": "panbox",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
         "scrolling",
         "box"
     ],
-    "author": "Misha Panyushkin <panyushkin@playform.com>",
+    "author": "Misha Panyushkin <misha.panyushkin@gmail.com>",
     "contributors": [
         {
             "name": "Misha Panyushkin",
